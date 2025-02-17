@@ -13,3 +13,6 @@ A entrega deste exercício consiste em:
 • Crie uma branch chamada 'exercicio_bootstrap' no repositório do curso;
 
 • A página foi adicionada ao Vercel para melhor compreensão do exercício.
+
+Acesse a pagina no vercel : [https://exercicio-bootstrap-tau-sable.vercel.app/
+](https://vercel.com/wanderson-brito-santos-s-projects/exercicio-bootstrap)
